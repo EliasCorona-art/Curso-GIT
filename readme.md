@@ -1,1 +1,1 @@
-<b>Acercac del proyecto</b>
+<b>Acerca del proyecto</b>
